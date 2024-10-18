@@ -1,0 +1,17 @@
+body{
+background-image:url(KBG.png);
+background-size:cover;
+background-size: 1530px 750px;
+}
+
+
+
+#price{
+color:black;
+background-color:white;
+border: 3.5px solid white;
+margin-top:167px;
+margin-left:803px;
+}
+
+
